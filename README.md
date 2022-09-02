@@ -1,1 +1,1 @@
-# BDL-Assignment1
+Assignment #1: Interacting with a Distributed Ledger and Basic Principles
